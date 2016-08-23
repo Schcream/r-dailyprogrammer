@@ -1,2 +1,5 @@
 # r-dailyprogrammer
-Some challanges from the /r/dailprogrammer subreddit
+Some challenges from the /r/dailprogrammer subreddit
+
+#280 DONE
+#279 DONE
